@@ -1,0 +1,5 @@
+.yewei{width:1000px;text-align: :center;}
+.yewei .biaozhi p{display:block;font-size:16px;color:#ccc;}
+.yemei .wangzhan ul{width:800px;list-style:none;display:block;height:45px;margin:0px;padding:0px;}
+.wangzhan li{float:left;}
+.wangzhan a{text-decoration: none;display:block;width:120px;height:35px;line-height:35px;text-align:center;color:#ccc;position:relative;left:200px;}

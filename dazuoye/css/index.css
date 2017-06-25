@@ -1,0 +1,11 @@
+.zhuti{width:1000px;text-align:center;background:#fff;}
+.kuangjia{width:1000px;height:58px;border-bottom:1px solid #ececec;border-top:2px solid #c7c7c7;padding:0px;}
+.kuangjia h3 a{font-size:40px;color:#069;border-top:2px solid #069;float:left;}
+.neirong{float:left;width:1000px;}
+.news{width:1000px;}
+.news ul{list-style:none;padding:0px;margin:0px;}
+.news li{line-height:30px;}
+.news a{color:#069;text-decoration: none;float:left;}
+.news {height:200px;overflow: hidden;border-bottom: 1px solid #ececec;padding: 10px 0px 0px 10px;;}
+.news a:hover{color: #0c0;text-decoration: underline;}
+.time{float:right;color:#069}

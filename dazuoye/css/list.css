@@ -1,0 +1,19 @@
+.list{width:1000px;text-align:left;background:#fff;float:left;}
+.dujia{width:800px;float:left;}
+.kuangjia{width:800px;height:58px;border-bottom:1px solid #ececec;border-top:2px solid #c7c7c7;padding:0px;}
+.kuangjia h3 a{font-size:40px;color:#069;border-top:2px solid #069;float:left;}
+.neirong{float:left;width:800px;}
+.news{width:800px;}
+.news ul{list-style:none;padding:0px;margin:0px;}
+.news li{line-height:30px;}
+.news a{color:#069;text-decoration: none;float:left;}
+.news {height:auto;overflow: hidden;border-bottom: 1px solid #ececec;padding: 10px 0px 0px 10px;;}
+.news a:hover{color: #0c0;text-decoration: underline;}
+.time{float:right;color:#069}
+.caidan_n{width:200px;float:right;}
+.caidan ul{list-style:none;padding:0px;margin-top:30px;margin-left:100px;}
+.caidan li{line-height:100px;}
+.caidan a{color:#069;width:200px;font-size:40px;}
+.caidan_p img{width:200px;float:right;padding:0px}
+.mianbaoxie p{text-align:center;display:block;float:left;}
+.mianbaoxie p a{font-size:30px;color:#069;}
